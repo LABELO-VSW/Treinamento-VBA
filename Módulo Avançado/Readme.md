@@ -1,6 +1,6 @@
 # Treinamento Avançado - 16 horas
 
-## Conteúdo porgramático
+## Conteúdo programático
 - Uso da biblioteca Visa
 - Módulo de classe
 - Estruturas abstratas dinâmicas
