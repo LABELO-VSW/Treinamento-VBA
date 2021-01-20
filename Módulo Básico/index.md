@@ -10,5 +10,3 @@
 - Uso de referências
 - Funções, sub-rotinas e módulos
 
-## [Material](https://github.com/LABELO-VSW/Treinamento-VBA/Módulo%20Básico/archive/main.zip)
-
