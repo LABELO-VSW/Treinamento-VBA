@@ -1,3 +1,4 @@
+## Descrição
 Hoje toda inteligência do Labelo é baseada em Excel e Word, portanto é de suma importância que os colaboradores possuam a autonomia e o conhecimento necessários para a implementação de melhorias.
 
 ## Módulos disponíveis:
