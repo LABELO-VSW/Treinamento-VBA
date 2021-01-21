@@ -14,6 +14,5 @@ Pessoa que já conheça os fundamentos básicos da linguagem VBA e estejam habit
 ## Material
 Em desenvolvimento.
 
-###### Instrutor: Jonathan Culau
-###### Horas de curso: 16
+<b>Instrutor: Jonathan Culau - Horas de curso: 16</b>
 
