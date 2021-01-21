@@ -4,7 +4,7 @@ Módulo básico do [Treinamento de VBA](https://labelo-vsw.github.io/Treinamento
 ## Público alvo
 Pessoa que ainda não teve contato com a ferramenta ou um contato muito breve.
 
-## Conteúdo:
+## Conteúdo
 - Apresentação do ambiente
 - Declaração de variáveis
 - Operações aritméticas
@@ -18,5 +18,5 @@ Pessoa que ainda não teve contato com a ferramenta ou um contato muito breve.
 - [Exemplos realizados em aula](https://github.com/LABELO-VSW/Treinamento-VBA/tree/main/M%C3%B3dulo%20B%C3%A1sico/Exemplos%20de%20aula)
 - [Exemplos extras](https://github.com/LABELO-VSW/Treinamento-VBA/tree/main/M%C3%B3dulo%20B%C3%A1sico/Exemplos)
 
-###### Instrutor: Jonathan Culau
-###### Horas de curso: 8
+<b>Instrutor: Jonathan Culau - Horas de curso: 8</b>
+
