@@ -10,3 +10,10 @@ Pessoa que já conheça os fundamentos básicos da linguagem VBA e estejam habit
 - Eventos
 - Interação com documento
 - Integração com outras aplicações
+
+## Material
+Em desenvolvimento.
+
+###### Instrutor: Jonathan Culau
+###### Horas de curso: 8
+
