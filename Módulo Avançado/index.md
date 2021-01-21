@@ -1,5 +1,5 @@
 # Módulo Avançado
-Módulo avançado do [treinamento de VBA](https://labelo-vsw.github.io/Treinamento-VBA/)
+Módulo avançado do [Treinamento de VBA](https://labelo-vsw.github.io/Treinamento-VBA/)
 ## Público alvo
 Pessoa que já conheça os fundamentos básicos da linguagem VBA e estejam habituados com o ambiente de desenvolvimento. 
 
