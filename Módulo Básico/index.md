@@ -1,8 +1,8 @@
 # Módulo Básico
 Módulo básico do [Treinamento de VBA](https://labelo-vsw.github.io/Treinamento-VBA/)
 
-## Descrição
- O treinamento visa um público que ainda não teve contato com a ferramenta ou um contato muito breve, neste módulo são apresentados os conceitos básicos da linguagem e apresentado todo o ambiente de desenvolvimento.
+## Público alvo
+Pessoa que ainda não teve contato com a ferramenta ou um contato muito breve.
 
 ## Conteúdo:
 - Apresentação do ambiente
