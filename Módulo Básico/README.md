@@ -1,5 +1,3 @@
-# Treinamento Básico - 8 horas
-
 ## Conteúdo Programático
 - Apresentação do ambiente
 - Declaração de variáveis
